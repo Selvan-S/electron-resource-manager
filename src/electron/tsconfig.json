@@ -4,6 +4,7 @@
     "module": "ESNext",
     "outDir": "../../dist-electron",
     "strict": true,
-    "skipLibCheck": true,
-  }
+    "skipLibCheck": true
+  },
+  "include": ["./**/*"]
 }
